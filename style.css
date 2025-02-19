@@ -1,1 +1,14 @@
-
+ div.topnav{
+    text-align: end;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+}
+ div.nb-logo img{
+    height: 70px;
+    width: 255px;
+    text-align: start;
+}
+ div.obrazos{
+    
+ }
