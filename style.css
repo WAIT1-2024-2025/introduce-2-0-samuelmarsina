@@ -1,14 +1,25 @@
- div.topnav{
+div.topnav{
     text-align: end;
     position: absolute;
     margin: 0;
     padding: 0;
 }
- div.nb-logo img{
-    height: 70px;
-    width: 255px;
+div.nb-logo img{
+    height: 100px;
+    width: 355px;
     text-align: start;
 }
- div.obrazos{
-    
- }
+
+body {
+  background-image: url('https://cdn.kudyznudy.cz/files/9f/9f7c82bc-874f-415c-8f92-3f4d7304a1a5.webp?v=20241205012118');
+}
+
+a{
+    font-size: 25px;
+    font-style: inherit;
+}
+
+h1{
+    color: whitesmoke;
+    text-align: end;   
+}
