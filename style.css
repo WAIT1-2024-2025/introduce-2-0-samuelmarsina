@@ -5,9 +5,14 @@ div.topnav{
     padding: 0;
 }
 div.nb-logo img{
-    height: 100px;
-    width: 355px;
+    height: 55px;
+    width: 200px;
     text-align: start;
+}
+
+div.nb-logo:hover img{
+    transform: scale(1.1);
+    transform: 0.5s;
 }
 
 body {
@@ -19,7 +24,15 @@ a{
     font-style: inherit;
 }
 
-h1{
+h2{
     color: whitesmoke;
     text-align: end;   
+}
+h4{
+    color: whitesmoke;
+    text-align: end;   
+}
+h3{
+    color: whitesmoke;
+    text-align: center;   
 }
